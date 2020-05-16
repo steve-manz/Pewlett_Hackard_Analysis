@@ -7,6 +7,7 @@ CREATE TABLE departments (
      UNIQUE (dept_name)
 );
 
+-- Testing for git push
 CREATE TABLE employees (
 	emp_no INT NOT NULL,
      birth_date DATE NOT NULL,
